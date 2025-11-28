@@ -16,4 +16,6 @@
   "tools": ["Docker", "Figma", "Postman"],
   "status": "Available for collaboration"
 }
+
+# i using nvim btw
 ```
